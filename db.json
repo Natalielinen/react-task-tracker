@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Feed snails and fishes",
+      "day": "Dec 20 at 6:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Pick up the order",
+      "day": "Dec 21 at 5:00pm",
+      "reminder": true
+    },
+    {
+      "text": "learn react",
+      "day": "today",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
